@@ -2,7 +2,7 @@ import pytest
 import pytest_asyncio
 import asyncio
 import logging
-from auto_scaler import AutoScaler
+from rabbitmq_auto_scaler import AutoScaler
 from unittest.mock import patch
 
 # Configure logging

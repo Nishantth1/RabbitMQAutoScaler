@@ -1,5 +1,5 @@
 import asyncio
-from auto_scaler import AutoScaler
+from rabbitmq_auto_scaler import AutoScaler
 
 async def message_handler(message):
     print(f"Handling message: {message.body.decode()}")
