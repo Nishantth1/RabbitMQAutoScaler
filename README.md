@@ -162,15 +162,6 @@ graph TD
     O --> P[Close Connection]
     P --> Q[Stop AutoScaler]
 
- 
-    style F fill:#e0e0e0,stroke:#757575,stroke-width:2px
-    style H fill:#a5d6a7,stroke:#388e3c,stroke-width:2px
-    style I fill:#dbeef2,stroke:#42a5f5,stroke-width:2px
-    style K fill:#a5d6a7,stroke:#388e3c,stroke-width:2px
-    style M fill:#b3e5fc,stroke:#03a9f4,stroke-width:2px
-    style N fill:#d1c4e9,stroke:#7e57c2,stroke-width:2px
-    style O fill:#cfd8dc,stroke:#90a4ae,stroke-width:2px
-    style Q fill:#e57373,stroke:#c62828,stroke-width:2px
 ```
 
 ## Conclusion
