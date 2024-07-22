@@ -34,6 +34,7 @@ Create an instance of the `AutoScaler` class with the required parameters:
 - `scale_up_threshold`: The message count threshold to scale up consumers.
 - `scale_down_threshold`: The message count threshold to scale down consumers.
 - `check_interval`: The interval (in seconds) to check the queue length and adjust consumers.
+- `**kwargs`: The additional parameters to be passed.
 
 ```python
 mq_url = 'amqps://your_username:your_password@your_rabbitmq_url:5671'
