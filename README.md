@@ -143,4 +143,10 @@ The RabbitMQ AutoScaler library provides an easy-to-use solution for dynamically
 
 Feel free to reach out for any questions or further assistance. Happy coding!
 
+## Blog
+https://medium.com/@nishantthakre9/building-an-auto-scaling-library-for-rabbitmq-a-developers-journey-cad15f22d91c
+
+## Package
+https://pypi.org/project/rabbitmq-auto-scaler/
+
 ---
